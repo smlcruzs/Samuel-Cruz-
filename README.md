@@ -17,7 +17,7 @@ Estudante de Ciências da computção pela intituição Estácio com experiênci
 
 
 
-## 🛠 Habilidades
+## 🛠 Habilidades 
 JavaScript, React e node.js, PHP, HTML, CSS, PostgreSQL, Python(Flask ,Django), MySQL Server, API REST, Git, Bitrix24, Obsidian, ITIL, Service Desk, Scrum e Kanban, Microsoft Office (Power BI, PowerPoint, Word)
 
 ## 🔗 Links
