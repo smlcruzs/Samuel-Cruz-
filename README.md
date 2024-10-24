@@ -1,5 +1,5 @@
 
-# Olá, eu sou a Samuel! 👋
+# Olá, eu sou o Samuel! 👋
 
 
 ## 🚀 Sobre mim
