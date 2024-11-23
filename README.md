@@ -7,7 +7,7 @@ Estudante de Ciências da computção pela intituição Estácio com experiênci
 
 
 ## Objetivos 
-👩‍💻 Trabalho atualmente na Empresa Acubana
+👩‍💻 Procuro Trabalho
 
 🧠 Estou aprendendo Python, Laravel, AWS
 
