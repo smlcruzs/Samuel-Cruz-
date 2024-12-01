@@ -7,7 +7,7 @@ Estudante de Ciências da computção pela intituição Estácio com experiênci
 
 
 ## Objetivos 
-👩‍💻 Procuro Trabalho
+👩‍💻 Desenvolvedor Junior 
 
 🧠 Estou aprendendo Python, Laravel, AWS
 
